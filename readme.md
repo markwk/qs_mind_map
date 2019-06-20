@@ -1,6 +1,6 @@
 # Mind Map of Quanfied Self and Self-Tracking
 
-QS Mind Map is a tool to help you conceptualize different tracking technologies as well as methods to engage with that data and also imagine what's to come. Ultimately it's my attempt to organize the quantified self space and can be thought of as a supplement to [Awesome Quantified Self](https://github.com/woop/awesome-quantified-self), a curated directory of QS resources, apps and more. 
+[QS Mind Map](https://github.com/markwk/qs_mind_map) is a tool to help you conceptualize different tracking technologies as well as methods to engage with that data and also imagine what's to come. Ultimately it's my attempt to organize the quantified self space and can be thought of as a supplement to [Awesome Quantified Self](https://github.com/woop/awesome-quantified-self), a curated directory of QS resources, apps and more. 
 
 Below is the mind map in graphic form as well as an outline of the included areas. You can find an interactive and editable version [here](https://coggle.it/diagram/WzGmNxN_zxZw9MbF/t/quantified-self-tools). 
 
@@ -87,7 +87,9 @@ There are a few tools today that take tracking data and apply it to actual advic
 - Personalized Media Recommendations
 - Personalized Health   
 
-#### FutureTech
+### 3. FutureTech
+
+This is where science fiction meets reality. I separate this from existing data tracking tech and data analysis tools. Some examples might include:   
 
 - Biotech / Infotech
 
@@ -107,6 +109,14 @@ There are a few tools today that take tracking data and apply it to actual advic
 
 -  [Awesome Quantified Self](https://github.com/woop/awesome-quantified-self) - a curated directory of QS resources, apps and more.
 - [Markwk.com](http://www.markwk.com) - an on-going blogging project on self-tracking and the data-driven life. 
+
+
+
+# Feedback? Thoughts? Contributions? 
+
+While the term "quantified self" might not be the most popular or even the most descriptive, I find it's the most accessible and used today. Personally, I prefer a more neutral expression like "data-driven" that encompasses the facets of using data to drive decision making and relationship with our reality, world and bodies. 
+
+For now, this is my way of conceptualizing the quantified self space. Got an idea, feedback, thought or contribution? Post something in the issue queue or fork this project and come up with your own mind map of QS!  
 
 
 
